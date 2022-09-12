@@ -11,8 +11,8 @@ Netlify Link Of the Website- https://capable-pudding-1f0353.netlify.app/
 
 The following are the teammates who have put in their precious efforts in making this project happen:
 
-- Shrey Mishra
 - Sarbjot Singh
+- Shrey Mishra
 - Abdullah Bin Hassan
 - Ashish Kumar Prusty
 - G Anil Kumar
@@ -50,15 +50,6 @@ Cart Page
 
 Team Contributions:
 
-# Shrey Mishra:
-
-My linkedin profile:https://www.linkedin.com/in/shrey-mishra-2a35131b8/
-
-- Responsible for making the Sign Up and Sign In part.
-- Used Javascript and it's greatest extent as taught and used different functionalities to make the signup modal.
-- The CSS part was used efficiently and accordingly as required.
-- Learned how to work as a team and gained the knowledge of helping others.
-
 # Sarbjot Singh:
 
 My Linked Profile- www.linkedin.com/in/sarbjot-
@@ -68,6 +59,16 @@ My Blog Link- https://medium.com/@sarbjots908/project-shopdisney-website-clone-8
 - Learned how to use javascript to style sliding components and DOM manipulation.
 - Learned how to lead the team and communicate in an effective manner.
 - Uses almost all important CSS properties to clone the home page.
+
+# Shrey Mishra:
+
+My linkedin profile:https://www.linkedin.com/in/shrey-mishra-2a35131b8/
+
+- Responsible for making the Sign Up and Sign In part.
+- Used Javascript and it's greatest extent as taught and used different functionalities to make the signup modal.
+- The CSS part was used efficiently and accordingly as required.
+- Learned how to work as a team and gained the knowledge of helping others.
+
 
 # Abdullah Bin Hassan -
 
