@@ -7,6 +7,18 @@ We have done our best to make this website look exactly like the original websit
 
 Netlify Link Of the Website- https://capable-pudding-1f0353.netlify.app/
 
+# Functionalities and Features
+
+We have a bunch of functionalities and elements that makes this project standout and look exactly like the real shopdisney.in website.
+
+Some standout functionalties that we have used here that gave this website a subtle but an exceptional touch are:
+
+- Sign Up/Sign In with local storage
+- Custom Sliding Component
+- Filter/Sort
+- Custom Slide Show
+- Responsive
+
 # Acknowledgements
 
 The following are the teammates who have put in their precious efforts in making this project happen:
@@ -17,16 +29,6 @@ The following are the teammates who have put in their precious efforts in making
 - Ashish Kumar Prusty
 - G Anil Kumar
 - Nitesh
-
-# Functionalities and Features
-
-We have a bunch of functionalities and elements that makes this project standout and look exactly like the real shopdisney.in website.
-
-Some standout functionalties that we have used here that gave this website a subtle but an exceptional touch are:
-
-- The Sliding Part: The sliding category part in the homepage is built on Transform CSS property.
-- Sign Up and Sign In: The Sign in and Sign up part are built on Position Absolute CSS Property and could not have been easier if not for this property.
-- Transition Part: The transitioned elements after the sliding part is built by using this property.
 
 # Screenshots of Some Features
 
